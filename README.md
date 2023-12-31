@@ -1,2 +1,3 @@
 # git_learn
-learning git
+learning git in a much better way
+
